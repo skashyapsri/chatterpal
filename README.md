@@ -16,12 +16,15 @@ Try out the live demo of [ChatterPal](https://d1ya2n96csvmzd.cloudfront.net).
 ## Screenshots
 
 ![Desktop View](https://raw.githubusercontent.com/skashyapsri/chatterpal/main/screenshots/desktop.png)
+
 *Figure 2: ChatterPal Desktop View*
 
 ![Mobile View](https://raw.githubusercontent.com/skashyapsri/chatterpal/main/screenshots/mobile.png)
+
 *Figure 3: ChatterPal Mobile View*
 
 ![Tablet View](https://raw.githubusercontent.com/skashyapsri/chatterpal/main/screenshots/tablet.png)
+
 *Figure 4: ChatterPal Tablet View*
 
 ## How to Use
