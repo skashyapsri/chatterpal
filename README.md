@@ -4,6 +4,8 @@ ChatterPal is a simple chat application designed to respond to messages related 
 
 Try out the live demo of [ChatterPal](https://d1ya2n96csvmzd.cloudfront.net).
 
+![ChatterPal](https://raw.githubusercontent.com/skashyapsri/chatterpal/main/screenshots/desktop.png)
+
 ## Features
 
 - Send messages: You can type a message in the input field and click the "Send" button to send it.
@@ -13,9 +15,9 @@ Try out the live demo of [ChatterPal](https://d1ya2n96csvmzd.cloudfront.net).
 
 ## Screenshots
 
-![ChatterPal Desktop](https://github.com/skashyapsri/chatterpal)
-![ChatterPal Mobile View](https://github.com/skashyapsri/chatterpal.git)
-![ChatterPal Tablet View](https://github.com/skashyapsri/chatterpal.git)
+![ChatterPal Desktop](https://raw.githubusercontent.com/skashyapsri/chatterpal/main/screenshots/desktop.png)
+![ChatterPal Mobile View](https://raw.githubusercontent.com/skashyapsri/chatterpal/main/screenshots/mobile.png)
+![ChatterPal Tablet View](https://raw.githubusercontent.com/skashyapsri/chatterpal/main/screenshots/tablet.png)
 
 ## How to Use
 
