@@ -1,23 +1,28 @@
 # ChatterPal - Project Pal Chat Application
 
-ChatterPal is a simple chat application designed to respond to messages related to Project Pal. This application allows you to engage in a chat-like conversation with a chatbot. It's a great example of a basic chat page with minimalistic functionality.
+*ChatterPal* is a straightforward chat application designed to respond to messages related to Project Pal. This application allows you to engage in a chat-like conversation with a chatbot. It's a great example of a basic chat page with minimalistic functionality.
 
 Try out the live demo of [ChatterPal](https://d1ya2n96csvmzd.cloudfront.net).
 
 ![ChatterPal](https://raw.githubusercontent.com/skashyapsri/chatterpal/main/screenshots/desktop.png)
+*Figure 1: ChatterPal Chat Interface*
 
 ## Features
 
-- Send messages: You can type a message in the input field and click the "Send" button to send it.
-- Receive responses: Messages you send will appear above the input field, and the chatbot (ChatterPal) will respond with predefined messages.
-- No backend required: ChatterPal is a front-end only application, so there's no need for a backend server.
-
+- **Send messages:** You can type a message in the input field and click the "Send" button to send it.
+- **Receive responses:** Messages you send will appear above the input field, and the chatbot (ChatterPal) will respond with predefined messages.
+- **No backend required:** ChatterPal is a front-end only application, so there's no need for a backend server.
 
 ## Screenshots
 
-![ChatterPal Desktop](https://raw.githubusercontent.com/skashyapsri/chatterpal/main/screenshots/desktop.png)
-![ChatterPal Mobile View](https://raw.githubusercontent.com/skashyapsri/chatterpal/main/screenshots/mobile.png)
-![ChatterPal Tablet View](https://raw.githubusercontent.com/skashyapsri/chatterpal/main/screenshots/tablet.png)
+![Desktop View](https://raw.githubusercontent.com/skashyapsri/chatterpal/main/screenshots/desktop.png)
+*Figure 2: ChatterPal Desktop View*
+
+![Mobile View](https://raw.githubusercontent.com/skashyapsri/chatterpal/main/screenshots/mobile.png)
+*Figure 3: ChatterPal Mobile View*
+
+![Tablet View](https://raw.githubusercontent.com/skashyapsri/chatterpal/main/screenshots/tablet.png)
+*Figure 4: ChatterPal Tablet View*
 
 ## How to Use
 
@@ -60,7 +65,6 @@ If you want to run ChatterPal locally on your machine, follow these steps:
    ```
 
 5. Open your web browser and visit `http://localhost:3000` to interact with ChatterPal locally.
-
 
 ## Author
 
