@@ -1,0 +1,32 @@
+.msger-inputarea {
+  display: flex;
+  padding: 10px;
+  border-top: var(--border);
+  background: #ffe8e8;
+}
+.msger-inputarea * {
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  font-size: 1em;
+}
+.msger-input {
+  flex: 1;
+  background: #ffdddd;
+}
+.msger-send-btn {
+  margin-left: 10px;
+  background: #ff8e95;
+  color: #fff;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background 0.23s;
+}
+.msger-send-btn:hover {
+  background: #ff8e95;
+}
+
+input.msger-input:focus-visible {
+    outline: none;
+    border: none; 
+}

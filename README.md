@@ -1,70 +1,68 @@
-# Getting Started with Create React App
+# ChatterPal - Project Pal Chat Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ChatterPal is a simple chat application designed to respond to messages related to Project Pal. This application allows you to engage in a chat-like conversation with a chatbot. It's a great example of a basic chat page with minimalistic functionality.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- Send messages: You can type a message in the input field and click the "Send" button to send it.
+- Receive responses: Messages you send will appear above the input field, and the chatbot (ChatterPal) will respond with predefined messages.
+- No backend required: ChatterPal is a front-end only application, so there's no need for a backend server.
 
-### `npm start`
+## Demo
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+You can try out the live demo of ChatterPal [here](https://d1ya2n96csvmzd.cloudfront.net).
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## How to Use
 
-### `npm test`
+1. Open the ChatterPal application in your web browser.
+2. Type a message in the input field at the bottom of the chat interface.
+3. Click the "Send" button or press Enter to send your message.
+4. ChatterPal will respond with predefined messages, simulating a chat conversation.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Technologies Used
 
-### `npm run build`
+- React: ChatterPal is built using the React JavaScript library.
+- CSS: Custom styles have been applied to create an appealing and user-friendly chat interface.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Installation
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+If you want to run ChatterPal locally on your machine, follow these steps:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. Clone this GitHub repository:
 
-### `npm run eject`
+   ```bash
+   git clone https://github.com/skashyapsri/chatterpal.git
+   ```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+2. Change your directory to the project folder:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+   ```bash
+   cd chatterpal
+   ```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+3. Install the required dependencies:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+   ```bash
+   npm install
+   ```
 
-## Learn More
+4. Start the development server:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+   ```bash
+   npm start
+   ```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+5. Open your web browser and visit `http://localhost:3000` to interact with ChatterPal locally.
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Author
 
-### Analyzing the Bundle Size
+- [Srikrishna S Kashyap](https://github.com/skashyapsri)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## License
 
-### Making a Progressive Web App
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+---
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Feel free to reach out if you have any questions or suggestions. Enjoy chatting with ChatterPal!

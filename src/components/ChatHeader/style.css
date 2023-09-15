@@ -1,0 +1,15 @@
+.msger-header {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  border-bottom: var(--border);
+  background: #ffe8e8;
+  color: #121;
+}
+
+.fas {
+    color: #ff8e95;
+}
+.msger-header-title {
+    font-weight: 600
+}
