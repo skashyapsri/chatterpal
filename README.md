@@ -5,6 +5,7 @@
 Try out the live demo of [ChatterPal](https://d1ya2n96csvmzd.cloudfront.net).
 
 ![ChatterPal](https://raw.githubusercontent.com/skashyapsri/chatterpal/main/screenshots/desktop.png)
+
 *Figure 1: ChatterPal Chat Interface*
 
 ## Features
