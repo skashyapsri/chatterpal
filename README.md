@@ -2,15 +2,20 @@
 
 ChatterPal is a simple chat application designed to respond to messages related to Project Pal. This application allows you to engage in a chat-like conversation with a chatbot. It's a great example of a basic chat page with minimalistic functionality.
 
+Try out the live demo of [ChatterPal](https://d1ya2n96csvmzd.cloudfront.net).
+
 ## Features
 
 - Send messages: You can type a message in the input field and click the "Send" button to send it.
 - Receive responses: Messages you send will appear above the input field, and the chatbot (ChatterPal) will respond with predefined messages.
 - No backend required: ChatterPal is a front-end only application, so there's no need for a backend server.
 
-## Demo
 
-You can try out the live demo of ChatterPal [here](https://d1ya2n96csvmzd.cloudfront.net).
+## Screenshots
+
+![ChatterPal Desktop](https://github.com/skashyapsri/chatterpal)
+![ChatterPal Mobile View](https://github.com/skashyapsri/chatterpal.git)
+![ChatterPal Tablet View](https://github.com/skashyapsri/chatterpal.git)
 
 ## How to Use
 
